@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DataBuster204
-- 👀 I’m interested in Data Analytics and Data Engineering
-- 🌱 I’m currently learning Python, Tableau, Power BI and SQL
-- 💞️ I’m looking to collaborate on Data analytics, Data Engineering
+- 👋 Hi, I’m Olumide Daramola aka @DataBuster204
+- 👀 I’m interested in DevOps Engineering, Cloud computing, Data Modelling, Data Analytics and Data Engineering
+- 🌱 I’m currently learning Linux, Bash Scripting, Kubernetes, AWS, Azure DevOps Python, Tableau, Power BI and SQL
+- 💞️ I’m looking to collaborate on DevOps, Cloud Computing, Data analytics, Data Engineering
 - 📫 How to reach me DataBuster204@gmail.com
 
 <!---
